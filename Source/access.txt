@@ -1,0 +1,33 @@
+1. What is table ms access?
+=> Table is an object that is used to define and store data.Tables contain fields or columns that store different kinds of data, such as a name or an address, and records.
+
+2. What is record in ms access?
+=> A record in Microsoft Access refers to a group of fields, such as a telephone number, address and name, which are pertinent to a particular item. Each record within a table 
+holds information about a single entity.
+
+3. How many types of Keys?
+=> There are mainly Eight different types of Keys in DBMS and each key has it’s different functionality:
+
+Super Key
+Primary Key
+Candidate Key
+Alternate Key
+Foreign Key
+Compound Key
+Composite Key
+Surrogate Key
+
+Let’s look at each of the keys in DBMS with example:
+
+Super Key -  A super key is a group of single or multiple keys which identifies rows in a table.
+Primary Key -  It is a column or group of columns in a table that uniquely identify every row in that table.
+Candidate Key - It is a set of attributes that uniquely identify tuples in a table. Candidate Key is a super key with no repeated attributes.
+Alternate Key - It is a column or group of columns in a table that uniquely identify every row in that table.
+Foreign Key - It is a column that creates a relationship between two tables. The purpose of Foreign keys is to maintain data integrity and allow navigation between two different 
+instances of an entity.
+Compound Key - It has two or more attributes that allow you to uniquely recognize a specific record. It is possible that each column may not be unique by itself within the 
+database.
+Composite Key - It is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individual uniqueness 
+is not guaranteed.
+Surrogate Key -  An artificial key which aims to uniquely identify each record is called a surrogate key. These kind of key are unique because they are created when you don't 
+have any natural primary key.
