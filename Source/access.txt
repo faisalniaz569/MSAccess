@@ -5,8 +5,8 @@
 => Table is an object that is used to define and store data.Tables contain fields or columns that store different kinds of data, such as a name or an address, and records.
 
 3. What is record in ms access?
-=> A record in Microsoft Access refers to a group of fields, such as a telephone number, address and name, which are pertinent to a particular item. Each record within a table 
-holds information about a single entity.
+=> A record in Microsoft Access refers to a group of fields, such as a telephone number, address and name, which are pertinent to a particular item. Each record within a 
+table holds information about a single entity.
 
 4. How many types of Keys?
 => There are mainly Eight different types of Keys in DBMS and each key has it’s different functionality:
