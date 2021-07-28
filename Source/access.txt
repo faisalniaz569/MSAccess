@@ -1,7 +1,7 @@
 1. What is MS Access?
 => MS Access is a Relational DataBase Management System (RDMS) Software.
 
-2. What is table ms access?
+2. What is table in ms access?
 => Table is an object that is used to define and store data.Tables contain fields or columns that store different kinds of data, such as a name or an address, and records.
 
 3. What is record in ms access?
