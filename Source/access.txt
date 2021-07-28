@@ -54,6 +54,20 @@ different instances of an entity. It acts as a cross-reference between two table
 "" ## < > >= <= 
 
 
+6. What is Query?
+
+=> A Query is Statement that relative the information from a table or database. It is very useful relational database management System. In query we can entry data 
+and can see it or also modify the data.
+
+7. How many types of Query?
+
+=> There are five types of Query in MS Access. They are -
+
+a) Select Query, b) Cross tab Query, c) Action Query, d) SQL Query, e) Parameter Query.
+
+# Action Query is 3 types:
+
+- Update, Append, Delete Query, Make a table Query
 
 
 
