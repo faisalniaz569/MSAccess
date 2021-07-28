@@ -32,8 +32,8 @@ Compound Key - It has two or more attributes that allow you to uniquely recogniz
 database.
 Composite Key - It is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individual 
 uniqueness is not guaranteed.
-Surrogate Key -  An artificial key which aims to uniquely identify each record is called a surrogate key. These kind of key are unique because they are created when you don't 
-have any natural primary key.
+Surrogate Key -  An artificial key which aims to uniquely identify each record is called a surrogate key. These kind of key are unique because they are created when you 
+don't have any natural primary key.
 
 5. What is Primary Key and Foreign key?
 
