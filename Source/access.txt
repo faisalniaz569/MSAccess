@@ -26,8 +26,8 @@ Super Key -  A super key is a group of single or multiple keys which identifies 
 Primary Key -  It is a column or group of columns in a table that uniquely identify every row in that table.
 Candidate Key - It is a set of attributes that uniquely identify tuples in a table. Candidate Key is a super key with no repeated attributes.
 Alternate Key - It is a column or group of columns in a table that uniquely identify every row in that table.
-Foreign Key - It is a column that creates a relationship between two tables. The purpose of Foreign keys is to maintain data integrity and allow navigation between two different 
-instances of an entity.
+Foreign Key - It is a column that creates a relationship between two tables. The purpose of Foreign keys is to maintain data integrity and allow navigation between two 
+different instances of an entity.
 Compound Key - It has two or more attributes that allow you to uniquely recognize a specific record. It is possible that each column may not be unique by itself within the 
 database.
 Composite Key - It is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individual 
