@@ -77,5 +77,5 @@ a) Select Query, b) Cross tab Query, c) Action Query, d) SQL Query, e) Parameter
 
 ** Make Table Query
 
-** Delete Query
+** Delete Query (Yes/No), [Yes = -1, No = 0]
 
