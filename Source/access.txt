@@ -69,7 +69,12 @@ a) Select Query, b) Cross tab Query, c) Action Query, d) SQL Query, e) Parameter
 
 - Update, Append, Delete Query, Make a table Query
 
+** Update query in details? 
 
+** Select Query
 
+** Append Query
+
+** Make Table Query
 
 
