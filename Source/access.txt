@@ -81,7 +81,38 @@ a) Select Query, b) Cross tab Query, c) Action Query, d) SQL Query, e) Parameter
 
 ** SQL Query
 
+** Relationship
 
+1. One to One,
+2. One to many,
+3. Many to many
+
+condition of relationship:
+
+* At least two tables
+* Tables will be blanked
+* Primary Key must
+
+
+condition of One to One relationship:
+
+* At least two tables,
+* Same fields have to set as primary key in both tables,
+* Relation with primary key and primary key.
+
+
+condition of One to Many relationship:
+
+* At least two tables,
+* At least one common field is required in two tables,
+* Relation with primary key and foreign key.
+
+
+Condition of Many to Many relationship:
+
+* At least three tables,
+* At least one common field is required in two tables,
+* It is a combination of "One to One" and "One to Many" Relationship
 
 
 
