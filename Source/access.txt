@@ -114,7 +114,9 @@ Condition of Many to Many relationship:
 * At least one common field is required in two tables,
 * It is a combination of "One to One" and "One to Many" Relationship
 
-
+** Use of Input Mask,
+** Form Design,
+** Database Encryption with Password
 
 
 
